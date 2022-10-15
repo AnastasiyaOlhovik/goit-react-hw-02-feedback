@@ -1,5 +1,5 @@
 import { PropTypes } from "prop-types";
-import styles from "./NotificationStyle.css";
+import styles from "./Notification.module.css";
 
 
 const Notification = ({ message }) => (
